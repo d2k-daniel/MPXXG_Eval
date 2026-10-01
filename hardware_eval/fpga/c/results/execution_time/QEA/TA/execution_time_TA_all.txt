@@ -1,0 +1,141 @@
+ET_Full_3_qubits: 968 ns or 0.000001 s
+ET_PE_Computing_3_qubits: 168 ns or 0.000000 s
+ET_PE_Transfer_3_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_3_qubits: 424 ns or 0.000000 s
+ET_CX_Transfer_3_qubits: 0 ns or 0.000000 s
+ET_Full_4_qubits: 2448 ns or 0.000002 s
+ET_PE_Computing_4_qubits: 256 ns or 0.000000 s
+ET_PE_Transfer_4_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_4_qubits: 1548 ns or 0.000002 s
+ET_CX_Transfer_4_qubits: 0 ns or 0.000000 s
+ET_Full_5_qubits: 6328 ns or 0.000006 s
+ET_PE_Computing_5_qubits: 400 ns or 0.000000 s
+ET_PE_Transfer_5_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_5_qubits: 4944 ns or 0.000005 s
+ET_CX_Transfer_5_qubits: 0 ns or 0.000000 s
+ET_Full_6_qubits: 16648 ns or 0.000017 s
+ET_PE_Computing_6_qubits: 672 ns or 0.000001 s
+ET_PE_Transfer_6_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_6_qubits: 14580 ns or 0.000015 s
+ET_CX_Transfer_6_qubits: 0 ns or 0.000000 s
+ET_Full_7_qubits: 43744 ns or 0.000044 s
+ET_PE_Computing_7_qubits: 1232 ns or 0.000001 s
+ET_PE_Transfer_7_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_7_qubits: 40632 ns or 0.000041 s
+ET_CX_Transfer_7_qubits: 0 ns or 0.000000 s
+ET_Full_8_qubits: 113312 ns or 0.000113 s
+ET_PE_Computing_8_qubits: 2432 ns or 0.000002 s
+ET_PE_Transfer_8_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_8_qubits: 108444 ns or 0.000108 s
+ET_CX_Transfer_8_qubits: 0 ns or 0.000000 s
+ET_Full_9_qubits: 287816 ns or 0.000288 s
+ET_PE_Computing_9_qubits: 5040 ns or 0.000005 s
+ET_PE_Transfer_9_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_9_qubits: 279712 ns or 0.000280 s
+ET_CX_Transfer_9_qubits: 0 ns or 0.000000 s
+ET_Full_10_qubits: 716376 ns or 0.000716 s
+ET_PE_Computing_10_qubits: 10720 ns or 0.000011 s
+ET_PE_Transfer_10_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_10_qubits: 701892 ns or 0.000702 s
+ET_CX_Transfer_10_qubits: 0 ns or 0.000000 s
+ET_Full_11_qubits: 1749712 ns or 0.001750 s
+ET_PE_Computing_11_qubits: 23056 ns or 0.000023 s
+ET_PE_Transfer_11_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_11_qubits: 1722120 ns or 0.001722 s
+ET_CX_Transfer_11_qubits: 0 ns or 0.000000 s
+ET_Full_12_qubits: 4202416 ns or 0.004202 s
+ET_PE_Computing_12_qubits: 49728 ns or 0.000050 s
+ET_PE_Transfer_12_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_12_qubits: 4147308 ns or 0.004147 s
+ET_CX_Transfer_12_qubits: 0 ns or 0.000000 s
+ET_Full_13_qubits: 9946360 ns or 0.009946 s
+ET_PE_Computing_13_qubits: 107120 ns or 0.000107 s
+ET_PE_Transfer_13_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_13_qubits: 9832944 ns or 0.009833 s
+ET_CX_Transfer_13_qubits: 0 ns or 0.000000 s
+ET_Full_14_qubits: 23243432 ns or 0.023243 s
+ET_PE_Computing_14_qubits: 230048 ns or 0.000230 s
+ET_PE_Transfer_14_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_14_qubits: 23006100 ns or 0.023006 s
+ET_CX_Transfer_14_qubits: 0 ns or 0.000000 s
+ET_Full_15_qubits: 53719232 ns or 0.053719 s
+ET_PE_Computing_15_qubits: 492240 ns or 0.000492 s
+ET_PE_Transfer_15_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_15_qubits: 53218648 ns or 0.053219 s
+ET_CX_Transfer_15_qubits: 0 ns or 0.000000 s
+ET_Full_16_qubits: 122959680 ns or 0.122960 s
+ET_PE_Computing_16_qubits: 1049344 ns or 0.001049 s
+ET_PE_Transfer_16_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_16_qubits: 121900860 ns or 0.121901 s
+ET_CX_Transfer_16_qubits: 0 ns or 0.000000 s
+ET_Full_17_qubits: 279068200 ns or 0.279068 s
+ET_PE_Computing_17_qubits: 2229040 ns or 0.002229 s
+ET_PE_Transfer_17_qubits: 0 ns or 0.000000 s
+ET_CX_Swapping_17_qubits: 276828480 ns or 0.276828 s
+ET_CX_Transfer_17_qubits: 0 ns or 0.000000 s
+ET_Full_18_qubits: nan
+ET_PE_Computing_18_qubits: nan
+ET_PE_Transfer_18_qubits: nan
+ET_CX_Swapping_18_qubits: nan
+ET_CX_Transfer_18_qubits: nan
+ET_Full_19_qubits: nan
+ET_PE_Computing_19_qubits: nan
+ET_PE_Transfer_19_qubits: nan
+ET_CX_Swapping_19_qubits: nan
+ET_CX_Transfer_19_qubits: nan
+ET_Full_20_qubits: nan
+ET_PE_Computing_20_qubits: nan
+ET_PE_Transfer_20_qubits: nan
+ET_CX_Swapping_20_qubits: nan
+ET_CX_Transfer_20_qubits: nan
+ET_Full_21_qubits: nan
+ET_PE_Computing_21_qubits: nan
+ET_PE_Transfer_21_qubits: nan
+ET_CX_Swapping_21_qubits: nan
+ET_CX_Transfer_21_qubits: nan
+ET_Full_22_qubits: nan
+ET_PE_Computing_22_qubits: nan
+ET_PE_Transfer_22_qubits: nan
+ET_CX_Swapping_22_qubits: nan
+ET_CX_Transfer_22_qubits: nan
+ET_Full_23_qubits: nan
+ET_PE_Computing_23_qubits: nan
+ET_PE_Transfer_23_qubits: nan
+ET_CX_Swapping_23_qubits: nan
+ET_CX_Transfer_23_qubits: nan
+ET_Full_24_qubits: nan
+ET_PE_Computing_24_qubits: nan
+ET_PE_Transfer_24_qubits: nan
+ET_CX_Swapping_24_qubits: nan
+ET_CX_Transfer_24_qubits: nan
+ET_Full_25_qubits: nan
+ET_PE_Computing_25_qubits: nan
+ET_PE_Transfer_25_qubits: nan
+ET_CX_Swapping_25_qubits: nan
+ET_CX_Transfer_25_qubits: nan
+ET_Full_26_qubits: nan
+ET_PE_Computing_26_qubits: nan
+ET_PE_Transfer_26_qubits: nan
+ET_CX_Swapping_26_qubits: nan
+ET_CX_Transfer_26_qubits: nan
+ET_Full_27_qubits: nan
+ET_PE_Computing_27_qubits: nan
+ET_PE_Transfer_27_qubits: nan
+ET_CX_Swapping_27_qubits: nan
+ET_CX_Transfer_27_qubits: nan
+ET_Full_28_qubits: nan
+ET_PE_Computing_28_qubits: nan
+ET_PE_Transfer_28_qubits: nan
+ET_CX_Swapping_28_qubits: nan
+ET_CX_Transfer_28_qubits: nan
+ET_Full_29_qubits: nan
+ET_PE_Computing_29_qubits: nan
+ET_PE_Transfer_29_qubits: nan
+ET_CX_Swapping_29_qubits: nan
+ET_CX_Transfer_29_qubits: nan
+ET_Full_30_qubits: nan
+ET_PE_Computing_30_qubits: nan
+ET_PE_Transfer_30_qubits: nan
+ET_CX_Swapping_30_qubits: nan
+ET_CX_Transfer_30_qubits: nan
+

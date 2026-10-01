@@ -1,0 +1,532 @@
+ET_3_qubits_quanvolutional_1: 608 ns
+ET_3_qubits_quanvolutional_2: 728 ns
+ET_3_qubits_quanvolutional_3: 1448 ns
+ET_3_qubits_quanvolutional_4: 1448 ns
+ET_3_qubits_quanvolutional_5: 2828 ns
+ET_3_qubits_quanvolutional_6: 3028 ns
+ET_3_qubits_quanvolutional_7: 1548 ns
+ET_3_qubits_quanvolutional_8: 1748 ns
+ET_3_qubits_quanvolutional_9: 728 ns
+ET_3_qubits_quanvolutional_10: 1388 ns
+ET_3_qubits_quanvolutional_11: 868 ns
+ET_3_qubits_quanvolutional_12: 968 ns
+ET_3_qubits_quanvolutional_13: 2848 ns
+ET_3_qubits_quanvolutional_14: 3848 ns
+ET_3_qubits_quanvolutional_15: 1028 ns
+ET_3_qubits_quanvolutional_16: 1048 ns
+ET_3_qubits_quanvolutional_17: 1448 ns
+ET_3_qubits_quanvolutional_18: 1268 ns
+ET_3_qubits_quanvolutional_19: 1868 ns
+ET_4_qubits_quanvolutional_1: 808 ns
+ET_4_qubits_quanvolutional_2: 1036 ns
+ET_4_qubits_quanvolutional_3: 2164 ns
+ET_4_qubits_quanvolutional_4: 2164 ns
+ET_4_qubits_quanvolutional_5: 5432 ns
+ET_4_qubits_quanvolutional_6: 5632 ns
+ET_4_qubits_quanvolutional_7: 2364 ns
+ET_4_qubits_quanvolutional_8: 2564 ns
+ET_4_qubits_quanvolutional_9: 1036 ns
+ET_4_qubits_quanvolutional_10: 1912 ns
+ET_4_qubits_quanvolutional_11: 1436 ns
+ET_4_qubits_quanvolutional_12: 1636 ns
+ET_4_qubits_quanvolutional_13: 3624 ns
+ET_4_qubits_quanvolutional_14: 5024 ns
+ET_4_qubits_quanvolutional_15: 1416 ns
+ET_4_qubits_quanvolutional_16: 1564 ns
+ET_4_qubits_quanvolutional_17: 2164 ns
+ET_4_qubits_quanvolutional_18: 1816 ns
+ET_4_qubits_quanvolutional_19: 2616 ns
+ET_5_qubits_quanvolutional_1: 1088 ns
+ET_5_qubits_quanvolutional_2: 1520 ns
+ET_5_qubits_quanvolutional_3: 3248 ns
+ET_5_qubits_quanvolutional_4: 3248 ns
+ET_5_qubits_quanvolutional_5: 10268 ns
+ET_5_qubits_quanvolutional_6: 10484 ns
+ET_5_qubits_quanvolutional_7: 3356 ns
+ET_5_qubits_quanvolutional_8: 3788 ns
+ET_5_qubits_quanvolutional_9: 1520 ns
+ET_5_qubits_quanvolutional_10: 2708 ns
+ET_5_qubits_quanvolutional_11: 2060 ns
+ET_5_qubits_quanvolutional_12: 2276 ns
+ET_5_qubits_quanvolutional_13: 4976 ns
+ET_5_qubits_quanvolutional_14: 6704 ns
+ET_5_qubits_quanvolutional_15: 2060 ns
+ET_5_qubits_quanvolutional_16: 2384 ns
+ET_5_qubits_quanvolutional_17: 3248 ns
+ET_5_qubits_quanvolutional_18: 2708 ns
+ET_5_qubits_quanvolutional_19: 3788 ns
+ET_6_qubits_quanvolutional_1: 1496 ns
+ET_6_qubits_quanvolutional_2: 2356 ns
+ET_6_qubits_quanvolutional_3: 5076 ns
+ET_6_qubits_quanvolutional_4: 5076 ns
+ET_6_qubits_quanvolutional_5: 20000 ns
+ET_6_qubits_quanvolutional_6: 20248 ns
+ET_6_qubits_quanvolutional_7: 5324 ns
+ET_6_qubits_quanvolutional_8: 5820 ns
+ET_6_qubits_quanvolutional_9: 2356 ns
+ET_6_qubits_quanvolutional_10: 4016 ns
+ET_6_qubits_quanvolutional_11: 3348 ns
+ET_6_qubits_quanvolutional_12: 3720 ns
+ET_6_qubits_quanvolutional_13: 7416 ns
+ET_6_qubits_quanvolutional_14: 9648 ns
+ET_6_qubits_quanvolutional_15: 3216 ns
+ET_6_qubits_quanvolutional_16: 3836 ns
+ET_6_qubits_quanvolutional_17: 5076 ns
+ET_6_qubits_quanvolutional_18: 4304 ns
+ET_6_qubits_quanvolutional_19: 5792 ns
+ET_7_qubits_quanvolutional_1: 2192 ns
+ET_7_qubits_quanvolutional_2: 3992 ns
+ET_7_qubits_quanvolutional_3: 8600 ns
+ET_7_qubits_quanvolutional_4: 8600 ns
+ET_7_qubits_quanvolutional_5: 41588 ns
+ET_7_qubits_quanvolutional_6: 41900 ns
+ET_7_qubits_quanvolutional_7: 8756 ns
+ET_7_qubits_quanvolutional_8: 9692 ns
+ET_7_qubits_quanvolutional_9: 3992 ns
+ET_7_qubits_quanvolutional_10: 6476 ns
+ET_7_qubits_quanvolutional_11: 5252 ns
+ET_7_qubits_quanvolutional_12: 5720 ns
+ET_7_qubits_quanvolutional_13: 12224 ns
+ET_7_qubits_quanvolutional_14: 15344 ns
+ET_7_qubits_quanvolutional_15: 5492 ns
+ET_7_qubits_quanvolutional_16: 6728 ns
+ET_7_qubits_quanvolutional_17: 8600 ns
+ET_7_qubits_quanvolutional_18: 7484 ns
+ET_7_qubits_quanvolutional_19: 9668 ns
+ET_8_qubits_quanvolutional_1: 3528 ns
+ET_8_qubits_quanvolutional_2: 7420 ns
+ET_8_qubits_quanvolutional_3: 15932 ns
+ET_8_qubits_quanvolutional_4: 15932 ns
+ET_8_qubits_quanvolutional_5: 92200 ns
+ET_8_qubits_quanvolutional_6: 92640 ns
+ET_8_qubits_quanvolutional_7: 16372 ns
+ET_8_qubits_quanvolutional_8: 17692 ns
+ET_8_qubits_quanvolutional_9: 7420 ns
+ET_8_qubits_quanvolutional_10: 11496 ns
+ET_8_qubits_quanvolutional_11: 10060 ns
+ET_8_qubits_quanvolutional_12: 10940 ns
+ET_8_qubits_quanvolutional_13: 22152 ns
+ET_8_qubits_quanvolutional_14: 26992 ns
+ET_8_qubits_quanvolutional_15: 10200 ns
+ET_8_qubits_quanvolutional_16: 12852 ns
+ET_8_qubits_quanvolutional_17: 15932 ns
+ET_8_qubits_quanvolutional_18: 14184 ns
+ET_8_qubits_quanvolutional_19: 17704 ns
+ET_9_qubits_quanvolutional_1: 6272 ns
+ET_9_qubits_quanvolutional_2: 14816 ns
+ET_9_qubits_quanvolutional_3: 31712 ns
+ET_9_qubits_quanvolutional_4: 31712 ns
+ET_9_qubits_quanvolutional_5: 213308 ns
+ET_9_qubits_quanvolutional_6: 214004 ns
+ET_9_qubits_quanvolutional_7: 32060 ns
+ET_9_qubits_quanvolutional_8: 34844 ns
+ET_9_qubits_quanvolutional_9: 14816 ns
+ET_9_qubits_quanvolutional_10: 22148 ns
+ET_9_qubits_quanvolutional_11: 18620 ns
+ET_9_qubits_quanvolutional_12: 20012 ns
+ET_9_qubits_quanvolutional_13: 43088 ns
+ET_9_qubits_quanvolutional_14: 51440 ns
+ET_9_qubits_quanvolutional_15: 20156 ns
+ET_9_qubits_quanvolutional_16: 26144 ns
+ET_9_qubits_quanvolutional_17: 31712 ns
+ET_9_qubits_quanvolutional_18: 28628 ns
+ET_9_qubits_quanvolutional_19: 34892 ns
+ET_10_qubits_quanvolutional_1: 12088 ns
+ET_10_qubits_quanvolutional_2: 30916 ns
+ET_10_qubits_quanvolutional_3: 66052 ns
+ET_10_qubits_quanvolutional_4: 66052 ns
+ET_10_qubits_quanvolutional_5: 503408 ns
+ET_10_qubits_quanvolutional_6: 504616 ns
+ET_10_qubits_quanvolutional_7: 67260 ns
+ET_10_qubits_quanvolutional_8: 72092 ns
+ET_10_qubits_quanvolutional_9: 30916 ns
+ET_10_qubits_quanvolutional_10: 45088 ns
+ET_10_qubits_quanvolutional_11: 40580 ns
+ET_10_qubits_quanvolutional_12: 43600 ns
+ET_10_qubits_quanvolutional_13: 87576 ns
+ET_10_qubits_quanvolutional_14: 103280 ns
+ET_10_qubits_quanvolutional_15: 41376 ns
+ET_10_qubits_quanvolutional_16: 55180 ns
+ET_10_qubits_quanvolutional_17: 66052 ns
+ET_10_qubits_quanvolutional_18: 59968 ns
+ET_10_qubits_quanvolutional_19: 72048 ns
+ET_11_qubits_quanvolutional_1: 24560 ns
+ET_11_qubits_quanvolutional_2: 65960 ns
+ET_11_qubits_quanvolutional_3: 140840 ns
+ET_11_qubits_quanvolutional_4: 140840 ns
+ET_11_qubits_quanvolutional_5: 1193156 ns
+ET_11_qubits_quanvolutional_6: 1195388 ns
+ET_11_qubits_quanvolutional_7: 141956 ns
+ET_11_qubits_quanvolutional_8: 153116 ns
+ET_11_qubits_quanvolutional_9: 65960 ns
+ET_11_qubits_quanvolutional_10: 94652 ns
+ET_11_qubits_quanvolutional_11: 81908 ns
+ET_11_qubits_quanvolutional_12: 87488 ns
+ET_11_qubits_quanvolutional_13: 182240 ns
+ET_11_qubits_quanvolutional_14: 213488 ns
+ET_11_qubits_quanvolutional_15: 86660 ns
+ET_11_qubits_quanvolutional_16: 118520 ns
+ET_11_qubits_quanvolutional_17: 140840 ns
+ET_11_qubits_quanvolutional_18: 127916 ns
+ET_11_qubits_quanvolutional_19: 152468 ns
+ET_12_qubits_quanvolutional_1: 51368 ns
+ET_12_qubits_quanvolutional_2: 141964 ns
+ET_12_qubits_quanvolutional_3: 303180 ns
+ET_12_qubits_quanvolutional_4: 303180 ns
+ET_12_qubits_quanvolutional_5: 2816312 ns
+ET_12_qubits_quanvolutional_6: 2820592 ns
+ET_12_qubits_quanvolutional_7: 307460 ns
+ET_12_qubits_quanvolutional_8: 328860 ns
+ET_12_qubits_quanvolutional_9: 141964 ns
+ET_12_qubits_quanvolutional_10: 201560 ns
+ET_12_qubits_quanvolutional_11: 184764 ns
+ET_12_qubits_quanvolutional_12: 197604 ns
+ET_12_qubits_quanvolutional_13: 383400 ns
+ET_12_qubits_quanvolutional_14: 447600 ns
+ET_12_qubits_quanvolutional_15: 183144 ns
+ET_12_qubits_quanvolutional_16: 256100 ns
+ET_12_qubits_quanvolutional_17: 303180 ns
+ET_12_qubits_quanvolutional_18: 274712 ns
+ET_12_qubits_quanvolutional_19: 326072 ns
+ET_13_qubits_quanvolutional_1: 108896 ns
+ET_13_qubits_quanvolutional_2: 306032 ns
+ET_13_qubits_quanvolutional_3: 653936 ns
+ET_13_qubits_quanvolutional_4: 653936 ns
+ET_13_qubits_quanvolutional_5: 6595532 ns
+ET_13_qubits_quanvolutional_6: 6603908 ns
+ET_13_qubits_quanvolutional_7: 658124 ns
+ET_13_qubits_quanvolutional_8: 708380 ns
+ET_13_qubits_quanvolutional_9: 306032 ns
+ET_13_qubits_quanvolutional_10: 431348 ns
+ET_13_qubits_quanvolutional_11: 381740 ns
+ET_13_qubits_quanvolutional_12: 406868 ns
+ET_13_qubits_quanvolutional_13: 809840 ns
+ET_13_qubits_quanvolutional_14: 943856 ns
+ET_13_qubits_quanvolutional_15: 388172 ns
+ET_13_qubits_quanvolutional_16: 553424 ns
+ET_13_qubits_quanvolutional_17: 653936 ns
+ET_13_qubits_quanvolutional_18: 590468 ns
+ET_13_qubits_quanvolutional_19: 699356 ns
+ET_14_qubits_quanvolutional_1: 231960 ns
+ET_14_qubits_quanvolutional_2: 658516 ns
+ET_14_qubits_quanvolutional_3: 1408148 ns
+ET_14_qubits_quanvolutional_4: 1408148 ns
+ET_14_qubits_quanvolutional_5: 15306880 ns
+ET_14_qubits_quanvolutional_6: 15323448 ns
+ET_14_qubits_quanvolutional_7: 1424716 ns
+ET_14_qubits_quanvolutional_8: 1524124 ns
+ET_14_qubits_quanvolutional_9: 658516 ns
+ET_14_qubits_quanvolutional_10: 923280 ns
+ET_14_qubits_quanvolutional_11: 857332 ns
+ET_14_qubits_quanvolutional_12: 915320 ns
+ET_14_qubits_quanvolutional_13: 1711416 ns
+ET_14_qubits_quanvolutional_14: 1993072 ns
+ET_14_qubits_quanvolutional_15: 822576 ns
+ET_14_qubits_quanvolutional_16: 1192764 ns
+ET_14_qubits_quanvolutional_17: 1408148 ns
+ET_14_qubits_quanvolutional_18: 1266672 ns
+ET_14_qubits_quanvolutional_19: 1498624 ns
+ET_15_qubits_quanvolutional_1: 494288 ns
+ET_15_qubits_quanvolutional_2: 1412408 ns
+ET_15_qubits_quanvolutional_3: 3022520 ns
+ET_15_qubits_quanvolutional_4: 3022520 ns
+ET_15_qubits_quanvolutional_5: 35204948 ns
+ET_15_qubits_quanvolutional_6: 35237900 ns
+ET_15_qubits_quanvolutional_7: 3038996 ns
+ET_15_qubits_quanvolutional_8: 3269660 ns
+ET_15_qubits_quanvolutional_9: 1412408 ns
+ET_15_qubits_quanvolutional_10: 1972268 ns
+ET_15_qubits_quanvolutional_11: 1775204 ns
+ET_15_qubits_quanvolutional_12: 1890536 ns
+ET_15_qubits_quanvolutional_13: 3612416 ns
+ET_15_qubits_quanvolutional_14: 4205552 ns
+ET_15_qubits_quanvolutional_15: 1740308 ns
+ET_15_qubits_quanvolutional_16: 2561192 ns
+ET_15_qubits_quanvolutional_17: 3022520 ns
+ET_15_qubits_quanvolutional_18: 2708828 ns
+ET_15_qubits_quanvolutional_19: 3203108 ns
+ET_16_qubits_quanvolutional_1: 1051528 ns
+ET_16_qubits_quanvolutional_2: 3018268 ns
+ET_16_qubits_quanvolutional_3: 6463708 ns
+ET_16_qubits_quanvolutional_4: 6463708 ns
+ET_16_qubits_quanvolutional_5: 80285768 ns
+ET_16_qubits_quanvolutional_6: 80351488 ns
+ET_16_qubits_quanvolutional_7: 6529428 ns
+ET_16_qubits_quanvolutional_8: 6989468 ns
+ET_16_qubits_quanvolutional_9: 3018268 ns
+ET_16_qubits_quanvolutional_10: 4200904 ns
+ET_16_qubits_quanvolutional_11: 3938348 ns
+ET_16_qubits_quanvolutional_12: 4201228 ns
+ET_16_qubits_quanvolutional_13: 7610568 ns
+ET_16_qubits_quanvolutional_14: 8859248 ns
+ET_16_qubits_quanvolutional_15: 3673848 ns
+ET_16_qubits_quanvolutional_16: 5477908 ns
+ET_16_qubits_quanvolutional_17: 6463708 ns
+ET_16_qubits_quanvolutional_18: 5773000 ns
+ET_16_qubits_quanvolutional_19: 6824520 ns
+ET_17_qubits_quanvolutional_1: 2231360 ns
+ET_17_qubits_quanvolutional_2: 6426368 ns
+ET_17_qubits_quanvolutional_3: 13771520 ns
+ET_17_qubits_quanvolutional_4: 13771520 ns
+ET_17_qubits_quanvolutional_5: 181678940 ns
+ET_17_qubits_quanvolutional_6: 181810196 ns
+ET_17_qubits_quanvolutional_7: 13837148 ns
+ET_17_qubits_quanvolutional_8: 14887196 ns
+ET_17_qubits_quanvolutional_9: 6426368 ns
+ET_17_qubits_quanvolutional_10: 8919908 ns
+ET_17_qubits_quanvolutional_11: 8133020 ns
+ET_17_qubits_quanvolutional_12: 8658044 ns
+ET_17_qubits_quanvolutional_13: 15999632 ns
+ET_17_qubits_quanvolutional_14: 18624752 ns
+ET_17_qubits_quanvolutional_15: 7737308 ns
+ET_17_qubits_quanvolutional_16: 11671424 ns
+ET_17_qubits_quanvolutional_17: 13771520 ns
+ET_17_qubits_quanvolutional_18: 12261428 ns
+ET_17_qubits_quanvolutional_19: 14492780 ns
+ET_18_qubits_quanvolutional_1: 4721912 ns
+ET_18_qubits_quanvolutional_2: 13635556 ns
+ET_18_qubits_quanvolutional_3: 29238564 ns
+ET_18_qubits_quanvolutional_4: 29238564 ns
+ET_18_qubits_quanvolutional_5: 408246416 ns
+ET_18_qubits_quanvolutional_6: 408508744 ns
+ET_18_qubits_quanvolutional_7: 29500892 ns
+ET_18_qubits_quanvolutional_8: 31599516 ns
+ET_18_qubits_quanvolutional_9: 13635556 ns
+ET_18_qubits_quanvolutional_10: 18881792 ns
+ET_18_qubits_quanvolutional_11: 17832804 ns
+ET_18_qubits_quanvolutional_12: 19013280 ns
+ET_18_qubits_quanvolutional_13: 33563736 ns
+ET_18_qubits_quanvolutional_14: 39072624 ns
+ET_18_qubits_quanvolutional_15: 16257216 ns
+ET_18_qubits_quanvolutional_16: 24778988 ns
+ET_18_qubits_quanvolutional_17: 29238564 ns
+ET_18_qubits_quanvolutional_18: 25958816 ns
+ET_18_qubits_quanvolutional_19: 30680720 ns
+ET_19_qubits_quanvolutional_1: 9964976 ns
+ET_19_qubits_quanvolutional_2: 28840136 ns
+ET_19_qubits_quanvolutional_3: 61876040 ns
+ET_19_qubits_quanvolutional_4: 61876040 ns
+ET_19_qubits_quanvolutional_5: 911572964 ns
+ET_19_qubits_quanvolutional_6: 912097436 ns
+ET_19_qubits_quanvolutional_7: 62138276 ns
+ET_19_qubits_quanvolutional_8: 66858524 ns
+ET_19_qubits_quanvolutional_9: 28840136 ns
+ET_19_qubits_quanvolutional_10: 39853724 ns
+ET_19_qubits_quanvolutional_11: 36707540 ns
+ET_19_qubits_quanvolutional_12: 39067664 ns
+ET_19_qubits_quanvolutional_13: 70264352 ns
+ET_19_qubits_quanvolutional_14: 81802736 ns
+ET_19_qubits_quanvolutional_15: 34083236 ns
+ET_19_qubits_quanvolutional_16: 52435544 ns
+ET_19_qubits_quanvolutional_17: 61876040 ns
+ET_19_qubits_quanvolutional_18: 54795020 ns
+ET_19_qubits_quanvolutional_19: 64759988 ns
+ET_20_qubits_quanvolutional_1: 239960888 ns
+ET_20_qubits_quanvolutional_2: 850097900 ns
+ET_20_qubits_quanvolutional_3: 1802178892 ns
+ET_20_qubits_quanvolutional_4: 1802164508 ns
+ET_20_qubits_quanvolutional_5: 29130436472 ns
+ET_20_qubits_quanvolutional_6: 29142443700 ns
+ET_20_qubits_quanvolutional_7: 1814191868 ns
+ET_20_qubits_quanvolutional_8: 1922168376 ns
+ET_20_qubits_quanvolutional_9: 850093212 ns
+ET_20_qubits_quanvolutional_10: 1141016228 ns
+ET_20_qubits_quanvolutional_11: 1066074200 ns
+ET_20_qubits_quanvolutional_12: 1126064872 ns
+ET_20_qubits_quanvolutional_13: 2142134320 ns
+ET_20_qubits_quanvolutional_14: 2418097608 ns
+ET_20_qubits_quanvolutional_15: 1047070944 ns
+ET_20_qubits_quanvolutional_16: 1574232060 ns
+ET_20_qubits_quanvolutional_17: 1802201008 ns
+ET_20_qubits_quanvolutional_18: 1634687772 ns
+ET_20_qubits_quanvolutional_19: 1874655708 ns
+ET_21_qubits_quanvolutional_1: 503923180 ns
+ET_21_qubits_quanvolutional_2: 1778076064 ns
+ET_21_qubits_quanvolutional_3: 3772136040 ns
+ET_21_qubits_quanvolutional_4: 3772138412 ns
+ET_21_qubits_quanvolutional_5: 63960705380 ns
+ET_21_qubits_quanvolutional_6: 63984765516 ns
+ET_21_qubits_quanvolutional_7: 3784132212 ns
+ET_21_qubits_quanvolutional_8: 4024097220 ns
+ET_21_qubits_quanvolutional_9: 1778086840 ns
+ET_21_qubits_quanvolutional_10: 2383918932 ns
+ET_21_qubits_quanvolutional_11: 2202185168 ns
+ET_21_qubits_quanvolutional_12: 2322177892 ns
+ET_21_qubits_quanvolutional_13: 4440007568 ns
+ET_21_qubits_quanvolutional_14: 5015930092 ns
+ET_21_qubits_quanvolutional_15: 2172022152 ns
+ET_21_qubits_quanvolutional_16: 3292226088 ns
+ET_21_qubits_quanvolutional_17: 3772158608 ns
+ET_21_qubits_quanvolutional_18: 3413117760 ns
+ET_21_qubits_quanvolutional_19: 3917055692 ns
+ET_22_qubits_quanvolutional_1: 1055858832 ns
+ET_22_qubits_quanvolutional_2: 3711957604 ns
+ET_22_qubits_quanvolutional_3: 7879849172 ns
+ET_22_qubits_quanvolutional_4: 7879765644 ns
+ET_22_qubits_quanvolutional_5: 139848455896 ns
+ET_22_qubits_quanvolutional_6: 139896490920 ns
+ET_22_qubits_quanvolutional_7: 7927803028 ns
+ET_22_qubits_quanvolutional_8: 8407770280 ns
+ET_22_qubits_quanvolutional_9: 3711962116 ns
+ET_22_qubits_quanvolutional_10: 4971614376 ns
+ET_22_qubits_quanvolutional_11: 4671808172 ns
+ET_22_qubits_quanvolutional_12: 4935802644 ns
+ET_22_qubits_quanvolutional_13: 9191551948 ns
+ET_22_qubits_quanvolutional_14: 10391383392 ns
+ET_22_qubits_quanvolutional_15: 4499776812 ns
+ET_22_qubits_quanvolutional_16: 6871970716 ns
+ET_22_qubits_quanvolutional_17: 7879862520 ns
+ET_22_qubits_quanvolutional_18: 7113751892 ns
+ET_22_qubits_quanvolutional_19: 8169641176 ns
+ET_23_qubits_quanvolutional_1: 2207692608 ns
+ET_23_qubits_quanvolutional_2: 7735416568 ns
+ET_23_qubits_quanvolutional_3: 16430738384 ns
+ET_23_qubits_quanvolutional_4: 16430723088 ns
+ET_23_qubits_quanvolutional_5: 304603661016 ns
+ET_23_qubits_quanvolutional_6: 304699028464 ns
+ET_23_qubits_quanvolutional_7: 16478584688 ns
+ET_23_qubits_quanvolutional_8: 17534512908 ns
+ET_23_qubits_quanvolutional_9: 7735426860 ns
+ET_23_qubits_quanvolutional_10: 10350676144 ns
+ET_23_qubits_quanvolutional_11: 9623730992 ns
+ET_23_qubits_quanvolutional_12: 10151727752 ns
+ET_23_qubits_quanvolutional_13: 19006030016 ns
+ET_23_qubits_quanvolutional_14: 21501775288 ns
+ET_23_qubits_quanvolutional_15: 9311020364 ns
+ET_23_qubits_quanvolutional_16: 14318878028 ns
+ET_23_qubits_quanvolutional_17: 16430609660 ns
+ET_23_qubits_quanvolutional_18: 14802543116 ns
+ET_23_qubits_quanvolutional_19: 17010302072 ns
+ET_24_qubits_quanvolutional_1: 4607264220 ns
+ET_24_qubits_quanvolutional_2: 16093771824 ns
+ET_24_qubits_quanvolutional_3: 34203316404 ns
+ET_24_qubits_quanvolutional_4: 34203162656 ns
+ET_24_qubits_quanvolutional_5: 661127402360 ns
+ET_24_qubits_quanvolutional_6: 661322915220 ns
+ET_24_qubits_quanvolutional_7: 34395639060 ns
+ET_24_qubits_quanvolutional_8: 36507258348 ns
+ET_24_qubits_quanvolutional_9: 16093941708 ns
+ET_24_qubits_quanvolutional_10: 21516564204 ns
+ET_24_qubits_quanvolutional_11: 20317415756 ns
+ET_24_qubits_quanvolutional_12: 21469386524 ns
+ET_24_qubits_quanvolutional_13: 39258372236 ns
+ET_24_qubits_quanvolutional_14: 44441897616 ns
+ET_24_qubits_quanvolutional_15: 19245099468 ns
+ET_24_qubits_quanvolutional_16: 29788054344 ns
+ET_24_qubits_quanvolutional_17: 34203377576 ns
+ET_24_qubits_quanvolutional_18: 30755134764 ns
+ET_24_qubits_quanvolutional_19: 35362640712 ns
+ET_25_qubits_quanvolutional_1: 9598956224 ns
+ET_25_qubits_quanvolutional_2: 33433925648 ns
+ET_25_qubits_quanvolutional_3: 71090942508 ns
+ET_25_qubits_quanvolutional_4: 71090620080 ns
+ET_25_qubits_quanvolutional_5: 1430319201252 ns
+ET_25_qubits_quanvolutional_6: 1430702163884 ns
+ET_25_qubits_quanvolutional_7: 71282419868 ns
+ET_25_qubits_quanvolutional_8: 75889745112 ns
+ET_25_qubits_quanvolutional_9: 33433678496 ns
+ET_25_qubits_quanvolutional_10: 44662726028 ns
+ET_25_qubits_quanvolutional_11: 41754756544 ns
+ET_25_qubits_quanvolutional_12: 44058676152 ns
+ET_25_qubits_quanvolutional_13: 81008452000 ns
+ET_25_qubits_quanvolutional_14: 91758735652 ns
+ET_25_qubits_quanvolutional_15: 39736297172 ns
+ET_25_qubits_quanvolutional_16: 61875854100 ns
+ET_25_qubits_quanvolutional_17: 71090958544 ns
+ET_25_qubits_quanvolutional_18: 63810537044 ns
+ET_25_qubits_quanvolutional_19: 73409342508 ns
+ET_26_qubits_quanvolutional_1: 19965226140 ns
+ET_26_qubits_quanvolutional_2: 69359571708 ns
+ET_26_qubits_quanvolutional_3: 147549920296 ns
+ET_26_qubits_quanvolutional_4: 147549775828 ns
+ET_26_qubits_quanvolutional_5: 3085186382712 ns
+ET_26_qubits_quanvolutional_6: 3085963035468 ns
+ET_26_qubits_quanvolutional_7: 148317781684 ns
+ET_26_qubits_quanvolutional_8: 157532970784 ns
+ET_26_qubits_quanvolutional_9: 69359709156 ns
+ET_26_qubits_quanvolutional_10: 92585404096 ns
+ET_26_qubits_quanvolutional_11: 87788689572 ns
+ET_26_qubits_quanvolutional_12: 92780533428 ns
+ET_26_qubits_quanvolutional_13: 167002013180 ns
+ET_26_qubits_quanvolutional_14: 189270008736 ns
+ET_26_qubits_quanvolutional_15: 81964675232 ns
+ET_26_qubits_quanvolutional_16: 128352017636 ns
+ET_26_qubits_quanvolutional_17: 147549726032 ns
+ET_26_qubits_quanvolutional_18: 132221124732 ns
+ET_26_qubits_quanvolutional_19: 152185733868 ns
+ET_27_qubits_quanvolutional_1: 41375627428 ns
+ET_27_qubits_quanvolutional_2: 143336780588 ns
+ET_27_qubits_quanvolutional_3: 305062431600 ns
+ET_27_qubits_quanvolutional_4: 305062766568 ns
+ET_27_qubits_quanvolutional_5: 6620344852176 ns
+ET_27_qubits_quanvolutional_6: 6621873734060 ns
+ET_27_qubits_quanvolutional_7: 305829444604 ns
+ET_27_qubits_quanvolutional_8: 325750517140 ns
+ET_27_qubits_quanvolutional_9: 143336806992 ns
+ET_27_qubits_quanvolutional_10: 191233496684 ns
+ET_27_qubits_quanvolutional_11: 179609556272 ns
+ET_27_qubits_quanvolutional_12: 189569279336 ns
+ET_27_qubits_quanvolutional_13: 343226360052 ns
+ET_27_qubits_quanvolutional_14: 389200162568 ns
+ET_27_qubits_quanvolutional_15: 168548749428 ns
+ET_27_qubits_quanvolutional_16: 265218772508 ns
+ET_27_qubits_quanvolutional_17: 305061255856 ns
+ET_27_qubits_quanvolutional_18: 272992107776 ns
+ET_27_qubits_quanvolutional_19: 314367849152 ns
+ET_28_qubits_quanvolutional_1: 85746213594 ns or 85.746214 s 
+ET_28_qubits_quanvolutional_2: 296216256291 ns or 296.216256 s 
+ET_28_qubits_quanvolutional_3: 630722720737 ns or 630.722721 s 
+ET_28_qubits_quanvolutional_4: 630724723395 ns or 630.724723 s 
+ET_28_qubits_quanvolutional_5: 14206261964376 ns or 14206.261964 s 
+ET_28_qubits_quanvolutional_6: 14209247241739 ns or 14209.247242 s 
+ET_28_qubits_quanvolutional_7: 630616559422 ns or 630.616559 s 
+ET_28_qubits_quanvolutional_8: 673594860103 ns or 673.594860 s 
+ET_28_qubits_quanvolutional_9: 296215778420 ns or 296.215778 s 
+ET_28_qubits_quanvolutional_10: 394989368044 ns or 394.989368 s 
+ET_28_qubits_quanvolutional_11: 367468666652 ns or 367.468667 s 
+ET_28_qubits_quanvolutional_12: 387328142447 ns or 387.328142 s 
+ET_28_qubits_quanvolutional_13: 705406671400 ns or 705.406671 s 
+ET_28_qubits_quanvolutional_14: 800321020506 ns or 800.321021 s 
+ET_28_qubits_quanvolutional_15: 346596638775 ns or 346.596639 s 
+ET_28_qubits_quanvolutional_16: 548031878159 ns or 548.031878 s 
+ET_28_qubits_quanvolutional_17: 630718689401 ns or 630.718689 s 
+ET_28_qubits_quanvolutional_18: 563636794491 ns or 563.636794 s 
+ET_28_qubits_quanvolutional_19: 649385077488 ns or 649.385077 s 
+ET_29_qubits_quanvolutional_1: 177699133591 ns or 177.699134 s 
+ET_29_qubits_quanvolutional_2: 612153211000 ns or 612.153211 s 
+ET_29_qubits_quanvolutional_3: 1304031926737 ns or 1304.031927 s 
+ET_29_qubits_quanvolutional_4: 1304038775945 ns or 1304.038776 s 
+ET_29_qubits_quanvolutional_5: 30484496428332 ns or 30484.496428 s 
+ET_29_qubits_quanvolutional_6: 30490268356882 ns or 30490.268357 s 
+ET_29_qubits_quanvolutional_7: 1300323602043 ns or 1300.323602 s 
+ET_29_qubits_quanvolutional_8: 1392875871823 ns or 1392.875872 s 
+ET_29_qubits_quanvolutional_9: 612151123124 ns or 612.151123 s 
+ET_29_qubits_quanvolutional_10: 815843477075 ns or 815.843477 s 
+ET_29_qubits_quanvolutional_11: 751815347548 ns or 751.815348 s 
+ET_29_qubits_quanvolutional_12: 791389250713 ns or 791.389251 s 
+ET_29_qubits_quanvolutional_13: 1449767937350 ns or 1449.767937 s 
+ET_29_qubits_quanvolutional_14: 1645718058386 ns or 1645.718058 s 
+ET_29_qubits_quanvolutional_15: 712726913834 ns or 712.726914 s 
+ET_29_qubits_quanvolutional_16: 1132419612077 ns or 1132.419612 s 
+ET_29_qubits_quanvolutional_17: 1304020282890 ns or 1304.020283 s 
+ET_29_qubits_quanvolutional_18: 1163720221410 ns or 1163.720221 s 
+ET_29_qubits_quanvolutional_19: 1341425276158 ns or 1341.425276 s 
+ET_30_qubits_quanvolutional_1: 368260950024 ns or 368.260950 s 
+ET_30_qubits_quanvolutional_2: 1265060731066 ns or 1265.060731 s 
+ET_30_qubits_quanvolutional_3: 2696112269369 ns or 2696.112269 s 
+ET_30_qubits_quanvolutional_4: 2696132030492 ns or 2696.132030 s 
+ET_30_qubits_quanvolutional_5: 65415133468558 ns or 65415.133469 s 
+ET_30_qubits_quanvolutional_6: 65426158659824 ns or 65426.158660 s 
+ET_30_qubits_quanvolutional_7: 2681251300437 ns or 2681.251300 s 
+ET_30_qubits_quanvolutional_8: 2880222681639 ns or 2880.222682 s 
+ET_30_qubits_quanvolutional_9: 1265054142425 ns or 1265.054142 s 
+ET_30_qubits_quanvolutional_10: 1685110114183 ns or 1685.110114 s 
+ET_30_qubits_quanvolutional_11: 1538161938969 ns or 1538.161939 s 
+ET_30_qubits_quanvolutional_12: 1616967314036 ns or 1616.967314 s 
+ET_30_qubits_quanvolutional_13: 2979596249061 ns or 2979.596249 s 
+ET_30_qubits_quanvolutional_14: 3384126941943 ns or 3384.126942 s 
+ET_30_qubits_quanvolutional_15: 1465621984964 ns or 1465.621985 s 
+ET_30_qubits_quanvolutional_16: 2339962744731 ns or 2339.962745 s 
+ET_30_qubits_quanvolutional_17: 2696081354118 ns or 2696.081354 s 
+ET_30_qubits_quanvolutional_18: 2402690468322 ns or 2402.690468 s 
+ET_30_qubits_quanvolutional_19: 2770962613552 ns or 2770.962614 s 

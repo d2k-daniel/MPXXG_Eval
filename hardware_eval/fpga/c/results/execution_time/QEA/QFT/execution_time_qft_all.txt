@@ -1,0 +1,28 @@
+ET_QFT_3_qubits: 2288 ns or 0.000002 s
+ET_QFT_4_qubits: 5636 ns or 0.000006 s
+ET_QFT_5_qubits: 12304 ns or 0.000012 s
+ET_QFT_6_qubits: 29628 ns or 0.000030 s
+ET_QFT_7_qubits: 69376 ns or 0.000069 s
+ET_QFT_8_qubits: 172500 ns or 0.000172 s
+ET_QFT_9_qubits: 413984 ns or 0.000414 s
+ET_QFT_10_qubits: 1016284 ns or 0.001016 s
+ET_QFT_11_qubits: 2408080 ns or 0.002408 s
+ET_QFT_12_qubits: 5754868 ns or 0.005755 s
+ET_QFT_13_qubits: 13362256 ns or 0.013362 s
+ET_QFT_14_qubits: 31152092 ns or 0.031152 s
+ET_QFT_15_qubits: 71020640 ns or 0.071021 s
+ET_QFT_16_qubits: 162317588 ns or 0.162318 s
+ET_QFT_17_qubits: 364569280 ns or 0.364569 s
+ET_QFT_18_qubits: nan
+ET_QFT_19_qubits: nan
+ET_QFT_20_qubits: nan
+ET_QFT_21_qubits: nan
+ET_QFT_22_qubits: nan
+ET_QFT_23_qubits: nan
+ET_QFT_24_qubits: nan
+ET_QFT_25_qubits: nan
+ET_QFT_26_qubits: nan
+ET_QFT_27_qubits: nan
+ET_QFT_28_qubits: nan
+ET_QFT_29_qubits: nan
+ET_QFT_30_qubits: nan
